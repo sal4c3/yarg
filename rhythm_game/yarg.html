@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>YARG: Yet Another Rhythm Game</title>
+        <link rel="stylesheet" href="./CSS/style.css" type="text/css">
+        <script src="JS/note.js"></script>
+        <script src="JS/bar.js"></script>
+        <script defer src="JS/runGame.js"></script>
+    </head>
+
+    <body class="field">
+        <div class="progress"><h1>It Was a Very Nice June</h2>
+            <i>by Eight</i></div>
+        <div class="accuracy"><p class="accuracy" id="accuracy1">0.0%</p></div>
+        <div class="ui"><button id="startBtn" onclick="startGame()"><b>PLAY</b></button></div>
+        <div class="status"><h1 id="status1">MISS</h1></div>
+        
+        <!-- actual game area -->
+        <div class="track-holder">
+            <table style="width:100%;"><tr style="width:100%;">
+                <td><div class="track" id="track1">
+                    <img class="note" id="note1" src="images/note.png" style="top: 0px; position: absolute;"></div></td>
+                <td><div class="track" id="track2">
+                    <img class="note" id="note2" src="images/note.png" style="top: 0px; position: absolute;"></div></td>
+                <td><div class="track" id="track3">
+                    <img class="note" id="note3" src="images/note.png" style="top: 0px; position: absolute;"></div></td>
+                <td><div class="track" id="track4">
+                    <img class="note" id="note4" src="images/note.png" style="top: 0px; position: absolute;"></div></td>
+            </tr></table>
+        </div>
+        <div class="bar" id="bar1" style="top: 0px; left: 0px; position: absolute">
+            <table class="grid" cellspacing="0"><tr><td class="border-left"></td><td class="border"></td><td class="border"></td><td class="border-right"></td></tr></table>
+        </div>
+        <div class="keybinds"><table cellspacing="0"><tr>
+            <td><p>D</p></td>
+            <td><p>F</p></td>
+            <td><p>J</p></td>
+            <td><p>K</p></td></tr></table></div>
+    </body>
+</html>

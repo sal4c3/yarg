@@ -1,0 +1,41 @@
+SOURCES/REFERENCES
+
+note image:
+https://sonolus.sekai.best/skins/pjsekai-01
+
+
+background GIF:
+https://www.pinterest.com/pin/108227197272631918/
+originally from the anime Attack on Titan
+
+
+song: Totemo Suteki na Rokugatsu Deshita/It Was a Very Beautiful June by Eight
+original song: https://www.youtube.com/watch?v=kAAt-qVxCjc
+
+singers (cover):
+ - Hatsune Miku
+ - Yoisaki Kanade (VA: Kusunoki Tomori)
+ - Asahina Mafuyu (VA: Tanabe Rui)
+ - Shinonome Ena (VA: Suzuki Minori)
+ - Akiyama Mizuki (VA: Sato Hinata)
+
+cover found at:
+https://sekai.best/music/340
+https://www.sekaipedia.org/wiki/Totemo_Suteki_na_Rokugatsu_Deshita
+cut at 00:50.5 (out of 02:34.0)
+
+
+chart adapted using slight references from 
+https://storage.sekai.best/sekai-music-charts/jp/0340/easy.png
+https://storage.sekai.best/sekai-music-charts/jp/0340/normal.png
+
+
+tap sound:
+https://www.soundsnap.com/button_or_switch_pressing_single_tapping_keyboard_mobile_phone_4
+
+
+audio event listener reference:
+https://stackoverflow.com/questions/11103582/how-do-you-detect-when-html5-audio-has-finished-playing-more-than-once
+
+
+also referenced (mainly for debugging purposes): my dad :)
